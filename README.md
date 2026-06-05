@@ -84,7 +84,7 @@ ffmpeg -version
 ### 2. Clone & install Python dependencies
 
 ```bash
-git clone <your-repo-url> medscribe-ai
+git clone https://github.com/Abhi951197/MedScribe-AI medscribe-ai
 cd medscribe-ai
 
 python -m venv venv
